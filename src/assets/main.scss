@@ -1,5 +1,5 @@
-@import './tailwind.scss';
-@import './base.scss';
+@use './tailwind';
+@use './base';
 
 #app {
   max-width: 100%;
